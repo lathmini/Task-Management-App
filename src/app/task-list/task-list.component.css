@@ -1,0 +1,82 @@
+.bg-gray {
+    background-color: #808080; /* This sets the background color to gray */
+}
+
+
+.text-center {
+    text-align: center; /* Center align text */
+  }
+  
+  .mt-3 {
+    margin-top: 15px; /* Added margin top for space */
+  }
+  
+  textarea {
+    height: 100px; /* Set height for textarea */
+  }
+  .btn-success {
+    background-color: #28a745 !important; /* Green background color */
+    color: white !important; /* White font color */
+  }
+
+  .bg-gray {
+    background-color: #ccc; /* Set background color to gray */
+  }
+  
+  /* Reduce width of delete and update buttons */
+.btn-primary,
+.btn-danger {
+  width: 30px; /* Adjust width as needed */
+}
+
+/* Set blue background color and white font color to edit button */
+.btn-danger {
+  background-color: #007bff !important; /* Blue background color */
+  color: white !important; /* White font color */
+  border: none;
+}
+
+/* Set red background color and white font color to delete button */
+.btn-primary {
+  background-color: #dc3545 !important; /* Red background color */
+  color: white !important; /* White font color */
+  border: none;
+}
+
+/* Add background color to task title and description */
+.card {
+  background-color: rgba(247, 251, 143, 0.666); /* Light gray background color */
+  font-size: 16px;
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+/* Style for the edit task form */
+.edit-task-form {
+    background-color: #f8f9fa; /* Light gray background color */
+    padding: 20px; /* Add padding for spacing */
+    border-radius: 5px; /* Add border radius for rounded corners */
+    margin-top: 20px; /* Add margin for spacing */
+  }
+  
+  /* Style for the save button */
+  .btn-save {
+    background-color: #28a745; /* Green background color */
+    color: white; /* White font color */
+    margin-right: 10px; /* Add margin for spacing */
+  }
+  
+  /* Style for the cancel button */
+  .btn-cancel {
+    background-color: #dc3545; /* Red background color */
+    color: white; /* White font color */
+  }
+  
+/* Add space between "Tasks" text and ADD button */
+.card.bg-success {
+    margin-bottom: 20px; /* Add margin bottom for space */
+  }
+  
+  .text-center {
+    margin-top: 20px; /* Add margin top for space */
+  }
+  
